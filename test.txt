@@ -1,0 +1,21 @@
+1 githowto
+git:
+git init
+git config --local user.mame " "
+git config --local user.email ....
+    в папке config проверяем
+git status
+git add -A
+git commit -a -m"..."
+git log
+git remote add origin https://github.com/MihailVasiliev/firstHtmlProject.git
+git branch -M main
+git push -u origin main
+ .....
+git push  
+//----------------------- на другом компьютере
+cd..
+cd (new folder)
+git clone (url) (name of project)
+//--------------------- снова на своем
+git pul
